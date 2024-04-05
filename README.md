@@ -11,7 +11,8 @@ Some notes:
 
 https://github.com/tigerabrodi/gojo/assets/49603590/6bab85b4-e0cd-484b-ae87-c32e203b15cf
 
-# Get it running locally
+
+# Get it running locally.
 
 1. Clone or fork it.
 2. Run `npm install`
@@ -29,7 +30,7 @@ https://github.com/tigerabrodi/gojo/assets/49603590/6bab85b4-e0cd-484b-ae87-c32e
 <details>
   <summary>🍿 Add someone as Editor via Email</summary>
 
----
+--
 
 At the moment, you can only add someone as editor. Supporting other roles shouldn't be too hard, but I left it out for now.
 
